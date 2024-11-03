@@ -1,1 +1,1 @@
-https://ms-configs.github.io/rsschool-cv/cv
+https://ms-configs.github.io/rsschool-cv/

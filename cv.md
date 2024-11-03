@@ -2,7 +2,7 @@
 ===== 
 Contacts: magaagulec@gmail.com
 =====
-I studied in medical university, but it wasn't for me. And i find something in front-end. I love animations and graphics
+I studied in medical university, but it wasn't for me. And i find something in front-end. I love animations and graphics.
 =====
 Skills: HTML, CSS, JS, Git, React, Webpack
 =====
